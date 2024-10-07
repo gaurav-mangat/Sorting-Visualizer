@@ -55,5 +55,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 For any inquiries, please contact:
-- **Your Name**: [chaudharymangat5@gmail.com](mailto:your.email@example.com)
-- **GitHub Profile**: [gaurav-mangat](https://github.com/yourusername)
+- **Your Name**: [chaudharymangat5@gmail.com](mailto:chaudharymangat5@gmail.com)
+- **GitHub Profile**: [gaurav-mangat](https://github.com/gaurav-mangat)
